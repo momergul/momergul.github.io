@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mustafa Omer Gul"
 title_separator          : "-"
 name                     : &name "Mustafa Omer Gul"
-description              : &description "Stanford BS CS '21, MS CS '21"
+description              : &description "CS PhD Student at Cornell University"
 url                      : https://momergul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "momergul/momergul.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mustafa Omer Gul"
   avatar           : "profile.jpg"
-  bio              : "Stanford BS CS '21, MS CS '21"
-  location         : "Istanbul, Turkey"
+  bio              : "CS PhD Student at Cornell University"
+  location         : "New York City, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=B_drSEgAAAAJ&hl=en&oi=ao"
   email            : "momergul@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
