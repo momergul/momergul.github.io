@@ -32,8 +32,6 @@ ACL 2023 (**Outstanding demo paper**)
 Zixian Ma*, Jerry Hong*, **Mustafa Omer Gul***, Mona Gandhi, Irena Gao, Ranjay Krishna
 CVPR 2023 (**Highlight**)
 
-[Measuring Compositional Consistency for Video Question Answering]()
+[Measuring Compositional Consistency for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf)
 Mona Gandhi*, **Mustafa Omer Gul***, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala
 CVPR 2022
-
-
