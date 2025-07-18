@@ -16,22 +16,22 @@ You may contact me at mog29 at cornell dot edu
 
 ## Publications
 
-[Retrospective Learning from Interactions](https://arxiv.org/pdf/2410.13852)  
-Zizhao Chen, **Mustafa Omer Gul**, Yiwei Chen, Gloria Geng, Anne Wu, and Yoav Artzi
+[Retrospective Learning from Interactions](https://arxiv.org/pdf/2410.13852)<br>
+Zizhao Chen, **Mustafa Omer Gul**, Yiwei Chen, Gloria Geng, Anne Wu, and Yoav Artzi<br>
 ACL 2025 (**Oral**)
 
-[CoGen: Learning from Feedback with Coupled Comprehension and Generation](https://arxiv.org/pdf/2408.15992)  
-**Mustafa Omer Gul**, and Yoav Artzi
+[CoGen: Learning from Feedback with Coupled Comprehension and Generation](https://arxiv.org/pdf/2408.15992)<br>
+**Mustafa Omer Gul**, and Yoav Artzi<br>
 EMNLP 2024 (**Best Paper Award**)
 
-[CB2: Collaborative Natural Language Interaction Research Platform](https://arxiv.org/pdf/2303.08127)  
-Jacob Sharf, **Mustafa Omer Gul**, and Yoav Artzi
+[CB2: Collaborative Natural Language Interaction Research Platform](https://arxiv.org/pdf/2303.08127)<br>
+Jacob Sharf, **Mustafa Omer Gul**, and Yoav Artzi<br>
 ACL 2023 (**Outstanding demo paper**)
 
-[Crepe: Can Vision-Language Foundation Models Reason Compositionally?](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_CREPE_Can_Vision-Language_Foundation_Models_Reason_Compositionally_CVPR_2023_paper.pdf)  
-Zixian Ma*, Jerry Hong*, **Mustafa Omer Gul***, Mona Gandhi, Irena Gao, Ranjay Krishna
+[Crepe: Can Vision-Language Foundation Models Reason Compositionally?](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_CREPE_Can_Vision-Language_Foundation_Models_Reason_Compositionally_CVPR_2023_paper.pdf)<br>
+Zixian Ma*, Jerry Hong*, **Mustafa Omer Gul***, Mona Gandhi, Irena Gao, Ranjay Krishna<br>
 CVPR 2023 (**Highlight**)
 
-[Measuring Compositional Consistency for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf)
-Mona Gandhi*, **Mustafa Omer Gul***, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala
+[Measuring Compositional Consistency for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf)<br>
+Mona Gandhi*, **Mustafa Omer Gul***, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala<br>
 CVPR 2022
