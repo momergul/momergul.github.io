@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year CS PhD student at Cornell University fortunate to be advised by Profs. [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Tanya Goyal](https://tagoyal.github.io/). I am currently most excited about building models that can (i) understand and faithfully communicate the limitations of their knowledge and capabilities, and (ii) use this understanding to effectively collaborate with other models/humans and (iii) guide future  learning. I also have longstanding interests in compositional reasoning, multimodality and pragmatics.
+Hello! I am a fourth-year CS PhD student at Cornell University fortunate to be advised by Profs. [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Tanya Goyal](https://tagoyal.github.io/). I am currently most excited about building models that can (i) understand and faithfully communicate the limitations of their knowledge and capabilities, and (ii) use this understanding to effectively collaborate with other models/humans and (iii) learn continually from these interactions. I also have longstanding interests in compositional reasoning, multimodality and pragmatics.
 
 Before this, I did my undergraduate and master's at Stanford University (CS BS '21, CS MS '21), where I had the privilege of being mentored by [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and, through him, work with Profs. [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), [Michael Bernstein](https://hci.stanford.edu/msb/) and [Maneesh Agrawala](http://graphics.stanford.edu/~maneesh/). Outside of research, I can be found avidly consuming poetry books or watching movies. I was also heavily involved with theater for much of my life.
 
@@ -35,3 +35,8 @@ CVPR 2023 (**Highlight**)
 [Measuring Compositional Consistency for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf)<br>
 Mona Gandhi*, **Mustafa Omer Gul***, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala<br>
 CVPR 2022
+
+## Preprints
+[Pay-Per-Search Models are Abstention Models](https://arxiv.org/pdf/2510.01152)<br>
+**Mustafa Omer Gul**, Claire Cardie, and Tanya Goyal<br>
+In submission.
